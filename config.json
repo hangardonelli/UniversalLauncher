@@ -1,0 +1,19 @@
+{
+	"author": "Lau",
+	"name": "XCPPS",
+	"url": "http://universalpenguin.com/play/es/#/login",
+	"disableCache": false,
+	"exitOnError": false,
+	"barColor": "#99DDFF",
+	"flashVersion": "17.0.0.169",
+	"resolution": {
+		"x": 1500,
+		"y": 1000
+	},
+	"loading": {
+		"title": "Cargando CPPS..."
+	},
+	"debug": {
+		"devTools": false
+	}
+}
